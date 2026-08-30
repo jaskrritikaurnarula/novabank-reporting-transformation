@@ -2,7 +2,7 @@
 
 **Business Analysis, Requirements Engineering & SQL Reporting Case**
 
-This portfolio project translates a fictional retail-bank reporting problem into a controlled monthly workflow, relational data model, tested SQL calculations, and management-ready outputs. It uses deterministic synthetic data only and is designed as a junior Business Analyst / SQL portfolio case.
+This project translates a fictional retail-bank reporting problem into a controlled monthly workflow, relational data model, tested SQL calculations, and management-ready outputs.
 
 ## Business Problem
 

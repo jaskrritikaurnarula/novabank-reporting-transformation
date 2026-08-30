@@ -1,0 +1,2 @@
+adjustment_id,branch_id,reporting_period,kpi_id,original_value,adjusted_value,reason,approver,approval_date,status
+ADJ-DEMO-001,B001,2025-11-30,DEPOSIT_VOLUME,3638002.9,3650502.9,Synthetic demonstration: understood deposit-source timing issue not correctable before T+5.,Head of Retail Banking,2025-12-04,APPROVED

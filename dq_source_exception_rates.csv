@@ -1,0 +1,9 @@
+source_table,records_checked,records_failed,exception_rate_pct
+accounts,155165,1,0.0006444752360390552
+branches,20,0,0.0
+customer_period_assignments,116221,1,0.0008604296985914766
+customers,5001,1,0.01999600079984003
+loans,32346,1,0.0030915723737092687
+monthly_branch_kpis,3361,1,0.02975304968759298
+reporting_cycle_status,24,0,0.0
+transactions,136437,1,0.0007329390121447994

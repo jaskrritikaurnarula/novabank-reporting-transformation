@@ -1,0 +1,34 @@
+reporting_period,branch_id,kpi_id,rule_code,calculated_value,issue_description,issue_status,commentary
+2024-02-29,B003,LOAN_PORTFOLIO,WARN_LOAN_PORTFOLIO_MOM_20,2657597.59,LOAN_PORTFOLIO changed by 28.7%; threshold is 20.0%.,ACCEPTED_WARNING,Reviewed and explained for the synthetic case; KPI value retained.
+2024-05-31,B015,LOAN_PORTFOLIO,WARN_LOAN_PORTFOLIO_MOM_20,1833769.24,LOAN_PORTFOLIO changed by 26.9%; threshold is 20.0%.,UNDER_REVIEW,Synthetic management-threshold warning awaiting review; value retained.
+2024-06-30,B015,TRANSACTION_COUNT,WARN_TRANSACTION_COUNT_MOM_20,155.0,TRANSACTION_COUNT changed by 20.2%; threshold is 20.0%.,UNDER_REVIEW,Synthetic management-threshold warning awaiting review; value retained.
+2025-01-31,B003,TRANSACTION_COUNT,WARN_TRANSACTION_COUNT_MOM_20,152.0,TRANSACTION_COUNT changed by 25.6%; threshold is 20.0%.,UNDER_REVIEW,Synthetic management-threshold warning awaiting review; value retained.
+2025-03-31,B020,DEPOSIT_VOLUME,WARN_DEPOSIT_VOLUME_MOM_20,5475079.03,DEPOSIT_VOLUME changed by 42.0%; threshold is 20.0%.,UNDER_REVIEW,Synthetic management-threshold warning awaiting review; value retained.
+2025-04-30,B007,DEFAULT_RATE,WARN_DEFAULT_RATE_8,11.381506193902483,Default Rate is 11.4%; threshold is 8.0%.,UNDER_REVIEW,Synthetic management-threshold warning awaiting review; value retained.
+2025-04-30,B019,LOAN_PORTFOLIO,WARN_LOAN_PORTFOLIO_MOM_20,9301084.51,LOAN_PORTFOLIO changed by 159.1%; threshold is 20.0%.,UNDER_REVIEW,Synthetic management-threshold warning awaiting review; value retained.
+2025-05-31,B007,DEFAULT_RATE,WARN_DEFAULT_RATE_8,11.41863022706185,Default Rate is 11.4%; threshold is 8.0%.,UNDER_REVIEW,Synthetic management-threshold warning awaiting review; value retained.
+2025-05-31,B009,LOAN_PORTFOLIO,WARN_LOAN_PORTFOLIO_MOM_20,2093992.47,LOAN_PORTFOLIO changed by 20.7%; threshold is 20.0%.,UNDER_REVIEW,Synthetic management-threshold warning awaiting review; value retained.
+2025-05-31,B017,NEW_CUSTOMERS,WARN_NEW_CUSTOMERS_MOM_20,10.0,NEW_CUSTOMERS changed by 900.0%; threshold is 20.0%. Absolute count change is at least 5.,UNDER_REVIEW,Synthetic management-threshold warning awaiting review; value retained.
+2025-05-31,B018,TRANSACTION_COUNT,WARN_TRANSACTION_COUNT_MOM_20,313.0,TRANSACTION_COUNT changed by 30.4%; threshold is 20.0%.,UNDER_REVIEW,Synthetic management-threshold warning awaiting review; value retained.
+2025-06-30,B007,DEFAULT_RATE,WARN_DEFAULT_RATE_8,11.456663350974662,Default Rate is 11.5%; threshold is 8.0%.,UNDER_REVIEW,Synthetic management-threshold warning awaiting review; value retained.
+2025-06-30,B017,ACTIVE_CUSTOMERS,WARN_ACTIVE_CUSTOMERS_MOM_10,324.0,ACTIVE_CUSTOMERS changed by 23.2%; threshold is 10.0%.,UNDER_REVIEW,Synthetic management-threshold warning awaiting review; value retained.
+2025-06-30,B017,NEW_CUSTOMERS,WARN_NEW_CUSTOMERS_MOM_20,61.0,NEW_CUSTOMERS changed by 510.0%; threshold is 20.0%. Absolute count change is at least 5.,UNDER_REVIEW,Synthetic management-threshold warning awaiting review; value retained.
+2025-06-30,B018,TRANSACTION_COUNT,WARN_TRANSACTION_COUNT_MOM_20,241.0,TRANSACTION_COUNT changed by -23.0%; threshold is 20.0%.,UNDER_REVIEW,Synthetic management-threshold warning awaiting review; value retained.
+2025-07-31,B007,DEFAULT_RATE,WARN_DEFAULT_RATE_8,10.440422774238938,Default Rate is 10.4%; threshold is 8.0%.,UNDER_REVIEW,Synthetic management-threshold warning awaiting review; value retained.
+2025-07-31,B013,ACTIVE_CUSTOMERS,WARN_ACTIVE_CUSTOMERS_MOM_10,157.0,ACTIVE_CUSTOMERS changed by -32.0%; threshold is 10.0%.,UNDER_REVIEW,Synthetic management-threshold warning awaiting review; value retained.
+2025-07-31,B013,DEPOSIT_VOLUME,WARN_DEPOSIT_VOLUME_MOM_20,2003784.22,DEPOSIT_VOLUME changed by -32.6%; threshold is 20.0%.,UNDER_REVIEW,Synthetic management-threshold warning awaiting review; value retained.
+2025-07-31,B013,LOAN_PORTFOLIO,WARN_LOAN_PORTFOLIO_MOM_20,2897984.98,LOAN_PORTFOLIO changed by -35.5%; threshold is 20.0%.,UNDER_REVIEW,Synthetic management-threshold warning awaiting review; value retained.
+2025-07-31,B013,TRANSACTION_COUNT,WARN_TRANSACTION_COUNT_MOM_20,176.0,TRANSACTION_COUNT changed by -35.5%; threshold is 20.0%.,UNDER_REVIEW,Synthetic management-threshold warning awaiting review; value retained.
+2025-07-31,B016,ACTIVE_CUSTOMERS,WARN_ACTIVE_CUSTOMERS_MOM_10,409.0,ACTIVE_CUSTOMERS changed by 22.5%; threshold is 10.0%.,UNDER_REVIEW,Synthetic management-threshold warning awaiting review; value retained.
+2025-07-31,B016,DEPOSIT_VOLUME,WARN_DEPOSIT_VOLUME_MOM_20,5220150.92,DEPOSIT_VOLUME changed by 25.1%; threshold is 20.0%.,UNDER_REVIEW,Synthetic management-threshold warning awaiting review; value retained.
+2025-07-31,B017,NEW_CUSTOMERS,WARN_NEW_CUSTOMERS_MOM_20,0.0,NEW_CUSTOMERS changed by -100.0%; threshold is 20.0%. Absolute count change is at least 5.,UNDER_REVIEW,Synthetic management-threshold warning awaiting review; value retained.
+2025-08-31,B007,DEFAULT_RATE,WARN_DEFAULT_RATE_8,10.484913733805923,Default Rate is 10.5%; threshold is 8.0%.,UNDER_REVIEW,Synthetic management-threshold warning awaiting review; value retained.
+2025-08-31,B015,DEFAULT_RATE,WARN_DEFAULT_RATE_8,20.112620444507847,Default Rate is 20.1%; threshold is 8.0%.,UNDER_REVIEW,Synthetic management-threshold warning awaiting review; value retained.
+2025-09-30,B014,TRANSACTION_COUNT,WARN_TRANSACTION_COUNT_MOM_20,0.0,TRANSACTION_COUNT changed by -100.0%; threshold is 20.0%.,UNDER_REVIEW,Synthetic management-threshold warning awaiting review; value retained.
+2025-09-30,B014,TRANSACTION_COUNT,WARN_ZERO_TRANSACTION_COUNT,0.0,Transaction Count is zero.,UNDER_REVIEW,Synthetic zero-activity warning awaiting review; zero retained.
+2025-10-31,B007,DEFAULT_RATE,WARN_DEFAULT_RATE_8,10.52477097653482,Default Rate is 10.5%; threshold is 8.0%.,UNDER_REVIEW,Synthetic management-threshold warning awaiting review; value retained.
+2025-10-31,B013,DEFAULT_RATE,WARN_DEFAULT_RATE_8,12.313926561533316,Default Rate is 12.3%; threshold is 8.0%.,UNDER_REVIEW,Synthetic management-threshold warning awaiting review; value retained.
+2025-11-30,B013,DEFAULT_RATE,WARN_DEFAULT_RATE_8,10.963108408493635,Default Rate is 11.0%; threshold is 8.0%.,UNDER_REVIEW,Synthetic management-threshold warning awaiting review; value retained.
+2025-12-31,B002,TRANSACTION_COUNT,WARN_TRANSACTION_COUNT_MOM_20,194.0,TRANSACTION_COUNT changed by 25.2%; threshold is 20.0%.,UNDER_REVIEW,Synthetic management-threshold warning awaiting review; value retained.
+2025-12-31,B007,DEFAULT_RATE,WARN_DEFAULT_RATE_8,10.58877987578401,Default Rate is 10.6%; threshold is 8.0%.,UNDER_REVIEW,Synthetic management-threshold warning awaiting review; value retained.
+2025-12-31,B013,DEFAULT_RATE,WARN_DEFAULT_RATE_8,11.337381840511366,Default Rate is 11.3%; threshold is 8.0%.,UNDER_REVIEW,Synthetic management-threshold warning awaiting review; value retained.
